@@ -1,0 +1,9 @@
+Building Kin
+
+See doc/readme-qt.rst for instructions on building Kin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kin.
+
+See doc/build-*.txt for instructions on building kind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Kin.
